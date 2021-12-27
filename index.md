@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>关锦涛</h1>
+      <p><b>中共党员</b></p>
+      <p><b>本科</b></p>
+      <p><b>南京航空航天大学金城学院</b></p>
+      <p><b>自动化</b></p>
+      <p><b>邮箱：1458900412@qq.com</b></p>
+    </td>
+    <td width="25%">
+      <img src="/IMG_2333 - 副本.JPG" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/guanguan213/guanguan213.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 个人荣誉
+#### 三好学生、一等优秀奖学金、国家励志奖学金、三创奖学金、校百佳青年。
+#### 江苏省蓝桥杯大赛获得单片机设计与开发项目大学组二等奖。
+#### 江苏省机器人大赛荣获智慧快递项目比赛二等奖。
+#### 江苏省智能（虚拟）仪器大赛二等奖。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guanguan213/guanguan213.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a href="/index-en.html">英文版</a>
